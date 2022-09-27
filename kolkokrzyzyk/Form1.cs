@@ -107,5 +107,15 @@ namespace kolkokrzyzyk
             Form form = ActiveForm;
             form.Controls["CurrentPlayerLbl"].Text = CurrentPlayer.Name;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
