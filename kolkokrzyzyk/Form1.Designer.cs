@@ -161,7 +161,6 @@ namespace kolkokrzyzyk
             this.label1.Size = new System.Drawing.Size(55, 13);
             this.label1.TabIndex = 10;
             this.label1.Text = "Teraz gra:";
-            this.label1.Click += new System.EventHandler(this.test);
             // 
             // CurrentPlayerLbl
             // 

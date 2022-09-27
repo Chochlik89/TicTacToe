@@ -107,10 +107,5 @@ namespace kolkokrzyzyk
             Form form = ActiveForm;
             form.Controls["CurrentPlayerLbl"].Text = CurrentPlayer.Name;
         }
-
-        private void test(object sender, EventArgs e)
-        {
-
-        }
     }
 }
